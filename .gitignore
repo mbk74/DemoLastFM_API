@@ -5,6 +5,9 @@
 ## Build generated
 build/
 DerivedData/
+Pods/
+AfLastFM.xcworkspace/
+Podfile.lock
 
 ## Various settings
 *.pbxuser
